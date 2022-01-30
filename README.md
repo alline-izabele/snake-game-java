@@ -1,4 +1,4 @@
-# Snake-Game-em-Java
+# Snake Game em Java
 
 Tentativa de reproduzir o Snake Game a partir do tutorial do Youtube, em Java.
 
